@@ -1,4 +1,6 @@
 
+<h1> Basic Personal Landing Page</h1>
+
 This is a project to encompass all that is covered during the first chapter of the Frontend Career Path Course on Scrimba.
 
 This includes the following:
